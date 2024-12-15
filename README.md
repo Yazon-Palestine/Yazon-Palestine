@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yazon-Palestine
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding, Linux, and Networking
 - 🌱 I’m currently learning Python
 - 📫 You can reach me on yazanasaad1995@outlook.com
 - 😄 Pronouns: Yazan Asaad
